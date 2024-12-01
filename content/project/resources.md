@@ -7,7 +7,8 @@ weight = 15
 ## Games Using UnrealEngine-Angelscript
 * [It Takes Two](https://www.ea.com/games/it-takes-two), by [Hazelight](https://hazelight.se) (2021)
 * [The Talos Principle 2](https://www.thetalosprinciple.com/), by [Croteam](http://www.croteam.com/) (2023)
-* [THE FINALS](https://www.reachthefinals.com/), by [Embark Studios](https://www.embark-studios.com/) (TBA)
+* [THE FINALS](https://www.reachthefinals.com/), by [Embark Studios](https://www.embark-studios.com/) (2023)
+* [ARC Raiders](https://www.arcraiders.com/), by [Embark Studios](https://www.embark-studios.com/) (TBA)
 
 # Development Resources
 * [Unreal Angelscript Clang-Format](https://marketplace.visualstudio.com/items?itemName=Hazelight.unreal-angelscript-clang-format)  
